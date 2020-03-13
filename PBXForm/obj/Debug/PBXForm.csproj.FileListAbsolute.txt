@@ -1,0 +1,12 @@
+C:\Users\toannguyenduc\source\repos\PBXForm\PBXForm\bin\Debug\PBXForm.exe.config
+C:\Users\toannguyenduc\source\repos\PBXForm\PBXForm\bin\Debug\PBXForm.exe
+C:\Users\toannguyenduc\source\repos\PBXForm\PBXForm\bin\Debug\PBXForm.pdb
+C:\Users\toannguyenduc\source\repos\PBXForm\PBXForm\obj\Debug\PBXForm.frm_main.resources
+C:\Users\toannguyenduc\source\repos\PBXForm\PBXForm\obj\Debug\PBXForm.Properties.Resources.resources
+C:\Users\toannguyenduc\source\repos\PBXForm\PBXForm\obj\Debug\PBXForm.csproj.GenerateResource.cache
+C:\Users\toannguyenduc\source\repos\PBXForm\PBXForm\obj\Debug\PBXForm.exe
+C:\Users\toannguyenduc\source\repos\PBXForm\PBXForm\obj\Debug\PBXForm.pdb
+C:\Users\toannguyenduc\source\repos\PBXForm\PBXForm\obj\Debug\PBXForm.Form1.resources
+C:\Users\toannguyenduc\source\repos\PBXForm\PBXForm\obj\Debug\PBXForm.Form2.resources
+C:\Users\toannguyenduc\source\repos\PBXForm\PBXForm\bin\Debug\OzekiSDK.dll
+C:\Users\toannguyenduc\source\repos\PBXForm\PBXForm\obj\Debug\PBXForm.csproj.CopyComplete

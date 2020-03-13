@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<roots>
+  <device>
+    <speaker>1</speaker>
+    <microphone>1</microphone>
+  </device>
+  <account>
+    <username>5003</username>
+    <passwork>Test5003</passwork>
+    <domain>192.168.1.7</domain>
+    <port>5065</port>
+    <displayname>5003</displayname>
+  </account>
+</roots>
